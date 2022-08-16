@@ -1,0 +1,7 @@
+Analysis for Citibike Tableau Assignment.
+-----------------------------------------
+The pehnomena I uncovered revoled around usage of the stations and User type. 
+The first thing i did was find the most used starting stations and I then plotted them on a map to show location and added a filter so you can see other stations
+based on usage.
+
+I then created a timeline of the top 5 stations and their usage between the months of May 2022 and July 2022 and showed how many weekly users used those stations to start thier journey.
