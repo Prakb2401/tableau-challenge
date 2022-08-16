@@ -1,7 +1,15 @@
 Analysis for Citibike Tableau Assignment.
 -----------------------------------------
-The pehnomena I uncovered revoled around usage of the stations and User type. 
+The phenomena I uncovered revoled around usage of the stations and User type. 
 The first thing i did was find the most used starting stations and I then plotted them on a map to show location and added a filter so you can see other stations
 based on usage.
 
-I then created a timeline of the top 5 stations and their usage between the months of May 2022 and July 2022 and showed how many weekly users used those stations to start thier journey.
+I then created a timeline of the top 5 stations and their usage between the months of May 2022 and July 2022 and showed how many weekly users used those stations to start their journey.
+I believe this 5 stations are the most used stations to begin a journey because the are right on the east coast of New York and near the airport.
+
+I then created a my first dashboard for station usage.
+
+I created multiple visualizations based user type including stacked bar shart for usage of the top stations based on user type,
+a stacked barchart for user type based on ride type, and a timeline of users type from May 2022 through July 2022.
+From the data we can see most of the users are memebers and I believe this is because members have more incentives to use the service than 
+casual users.
